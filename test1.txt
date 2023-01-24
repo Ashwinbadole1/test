@@ -1,0 +1,34 @@
+ Volume in drive C is System
+ Volume Serial Number is 60F5-1A91
+
+ Directory of C:\Users\badole
+
+24-01-2023  18:55    <DIR>          .
+24-01-2023  18:55    <DIR>          ..
+26-11-2022  22:11    <DIR>          .aws
+26-11-2022  22:11    <DIR>          .azure
+29-08-2022  14:24    <DIR>          .cisco
+26-11-2022  22:32    <DIR>          .docker
+03-10-2022  18:31    <DIR>          .ms-ad
+13-12-2022  13:05    <DIR>          .VirtualBox
+25-11-2022  18:16    <DIR>          .vscode
+29-08-2022  14:22    <DIR>          3D Objects
+25-11-2022  18:22    <DIR>          Anaconda3
+29-08-2022  14:22    <DIR>          Contacts
+18-01-2023  19:59    <DIR>          Desktop
+23-01-2023  11:23    <DIR>          Documents
+24-01-2023  18:05    <DIR>          Downloads
+29-08-2022  14:22    <DIR>          Favorites
+29-08-2022  14:22    <DIR>          Links
+29-08-2022  14:22    <DIR>          Music
+21-01-2023  19:31    <DIR>          OneDrive - Nokia
+06-12-2022  20:51    <DIR>          Pictures
+29-08-2022  14:22    <DIR>          Saved Games
+29-08-2022  14:23    <DIR>          Searches
+02-11-2022  13:50           396,765 TESLA_2--TC_IAM_02.html
+24-01-2023  18:55                 0 test1.txt
+29-09-2022  22:46    <DIR>          Tracing
+14-10-2022  17:14    <DIR>          Videos
+30-09-2022  18:58    <DIR>          VirtualBox VMs
+               2 File(s)        396,765 bytes
+              25 Dir(s)  363,248,431,104 bytes free
